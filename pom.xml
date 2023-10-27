@@ -74,15 +74,8 @@
                                 <useJakartaEe>true</useJakartaEe>
                                 <useOptional>true</useOptional>
                                 <useSwaggerUI>false</useSwaggerUI>
+                                <openApiNullable>true</openApiNullable>
                             </configOptions>
-                            <!-- Generate client
-                            <generatorName>java</generatorName>
-                            <library>feign</library>
-                            <generateModels>true</generateModels>
-                            <generateApis>false</generateApis>
-                            <configOptions>
-                                <serializationLibrary>jackson</serializationLibrary>
-                            </configOptions>-->
                         </configuration>
                     </execution>
                 </executions>
