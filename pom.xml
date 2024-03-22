@@ -10,7 +10,7 @@
         <openapitools-generator.version>7.4.0</openapitools-generator.version>
         <openapitools-nullable.version>0.2.6</openapitools-nullable.version>
         <jakartaee.version>9.1.0</jakartaee.version>
-        <spring.version>6.1.4</spring.version>
+        <spring.version>6.1.5</spring.version>
         <metadata.version>0.0.1-SNAPSHOT</metadata.version>
         <maven.compiler.target>21</maven.compiler.target>
         <maven.compiler.source>21</maven.compiler.source>
