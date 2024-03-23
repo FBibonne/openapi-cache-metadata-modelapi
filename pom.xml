@@ -78,7 +78,7 @@
                                 <annotationLibrary>none</annotationLibrary>
                                 <requestMappingMode>none</requestMappingMode>
                                 <useJakartaEe>true</useJakartaEe>
-                                <useOptional>true</useOptional>
+                                <useOptional>false</useOptional>
                                 <useSwaggerUI>false</useSwaggerUI>
                                 <openApiNullable>true</openApiNullable>
                             </configOptions>
